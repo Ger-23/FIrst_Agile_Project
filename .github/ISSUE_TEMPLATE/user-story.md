@@ -18,4 +18,4 @@ As a **role** I can **capability** so that **received benefit**
 
 - [ ] Task 1
 - [ ] Task 2
-- [ ] Tasl 3
+- [ ] Task 3
